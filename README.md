@@ -4,3 +4,8 @@ Hi We are team PNT2022TMID24294
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 TEAM MEMBERS
+
+1.P.KARTHIKEYAN
+2.T.KARTHIK
+3.GANGAVARAPU SAI PUJITHA
+4.A.VISHWA KARTHICK
